@@ -1,7 +1,3 @@
-//
-// fv = pv * (1 + interest rate)^n
-//
-
 /**
  * Calculates the future value of an annuity investment based on constant-amount periodic payments and a constant interest rate.
  * 
