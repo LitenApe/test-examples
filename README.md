@@ -1,3 +1,14 @@
+# Test Examples
+Literally just examples that will be accumulated over time, so that
+my tiny brain has something to look back on when it forgets how to write
+tests. Components and event handling should not be used as for production,
+as they are are subject to weird decision that was made to make for easier
+testing.
+
+I repeat, EXAMPLES FOR MY LITTLE BRAIN.
+
+Thank you and have a nice day.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
