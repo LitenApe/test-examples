@@ -3,6 +3,7 @@ import { useState } from "react";
 export default function ShowHideAlert() {
   const [show, setShow] = useState(false);
 
+  // essentially mimicking a http request
   function clickHandler() {
     setTimeout(() => {
       setShow(prev => !prev)
